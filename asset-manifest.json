@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/movie-club-react/static/css/main.adbd764f.chunk.css",
-    "main.js": "/movie-club-react/static/js/main.72d16463.chunk.js",
-    "main.js.map": "/movie-club-react/static/js/main.72d16463.chunk.js.map",
-    "runtime-main.js": "/movie-club-react/static/js/runtime-main.17e146c2.js",
-    "runtime-main.js.map": "/movie-club-react/static/js/runtime-main.17e146c2.js.map",
+    "main.css": "/movie-club-react/static/css/main.8d0aed85.chunk.css",
+    "main.js": "/movie-club-react/static/js/main.836c87eb.chunk.js",
+    "main.js.map": "/movie-club-react/static/js/main.836c87eb.chunk.js.map",
+    "runtime-main.js": "/movie-club-react/static/js/runtime-main.6c6fe8e2.js",
+    "runtime-main.js.map": "/movie-club-react/static/js/runtime-main.6c6fe8e2.js.map",
     "static/css/2.71f565c1.chunk.css": "/movie-club-react/static/css/2.71f565c1.chunk.css",
-    "static/js/2.74629a93.chunk.js": "/movie-club-react/static/js/2.74629a93.chunk.js",
-    "static/js/2.74629a93.chunk.js.map": "/movie-club-react/static/js/2.74629a93.chunk.js.map",
-    "static/js/3.359e9462.chunk.js": "/movie-club-react/static/js/3.359e9462.chunk.js",
-    "static/js/3.359e9462.chunk.js.map": "/movie-club-react/static/js/3.359e9462.chunk.js.map",
+    "static/js/2.45629ffb.chunk.js": "/movie-club-react/static/js/2.45629ffb.chunk.js",
+    "static/js/2.45629ffb.chunk.js.map": "/movie-club-react/static/js/2.45629ffb.chunk.js.map",
+    "static/js/3.aa9023bf.chunk.js": "/movie-club-react/static/js/3.aa9023bf.chunk.js",
+    "static/js/3.aa9023bf.chunk.js.map": "/movie-club-react/static/js/3.aa9023bf.chunk.js.map",
     "index.html": "/movie-club-react/index.html",
     "static/css/2.71f565c1.chunk.css.map": "/movie-club-react/static/css/2.71f565c1.chunk.css.map",
-    "static/css/main.adbd764f.chunk.css.map": "/movie-club-react/static/css/main.adbd764f.chunk.css.map",
-    "static/js/2.74629a93.chunk.js.LICENSE.txt": "/movie-club-react/static/js/2.74629a93.chunk.js.LICENSE.txt",
+    "static/css/main.8d0aed85.chunk.css.map": "/movie-club-react/static/css/main.8d0aed85.chunk.css.map",
+    "static/js/2.45629ffb.chunk.js.LICENSE.txt": "/movie-club-react/static/js/2.45629ffb.chunk.js.LICENSE.txt",
     "static/media/Home.module.css": "/movie-club-react/static/media/cinema3_08.6d3fc7fe.jpg",
     "static/media/all.min.css": "/movie-club-react/static/media/fa-solid-900.eeccf4f6.woff",
     "static/media/nav3.540f70fa.webp": "/movie-club-react/static/media/nav3.540f70fa.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.17e146c2.js",
+    "static/js/runtime-main.6c6fe8e2.js",
     "static/css/2.71f565c1.chunk.css",
-    "static/js/2.74629a93.chunk.js",
-    "static/css/main.adbd764f.chunk.css",
-    "static/js/main.72d16463.chunk.js"
+    "static/js/2.45629ffb.chunk.js",
+    "static/css/main.8d0aed85.chunk.css",
+    "static/js/main.836c87eb.chunk.js"
   ]
 }
