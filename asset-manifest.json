@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/movie-club-react/static/css/main.8d0aed85.chunk.css",
-    "main.js": "/movie-club-react/static/js/main.836c87eb.chunk.js",
-    "main.js.map": "/movie-club-react/static/js/main.836c87eb.chunk.js.map",
+    "main.js": "/movie-club-react/static/js/main.d9bddf4f.chunk.js",
+    "main.js.map": "/movie-club-react/static/js/main.d9bddf4f.chunk.js.map",
     "runtime-main.js": "/movie-club-react/static/js/runtime-main.6c6fe8e2.js",
     "runtime-main.js.map": "/movie-club-react/static/js/runtime-main.6c6fe8e2.js.map",
     "static/css/2.71f565c1.chunk.css": "/movie-club-react/static/css/2.71f565c1.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.71f565c1.chunk.css",
     "static/js/2.45629ffb.chunk.js",
     "static/css/main.8d0aed85.chunk.css",
-    "static/js/main.836c87eb.chunk.js"
+    "static/js/main.d9bddf4f.chunk.js"
   ]
 }
